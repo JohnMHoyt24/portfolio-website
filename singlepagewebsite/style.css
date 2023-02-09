@@ -12,7 +12,7 @@ body {
   margin-top:-1cm;
   padding-top: 2cm;
   padding-bottom: 2cm;
-  height: 12mm;
+  height: 19mm;
  }
 
 .topmenu {
@@ -98,19 +98,23 @@ h2 {
   margin-top: 90px;
   color: #1481ca;
   text-shadow: 2px 2px 4px #000000;
+  margin-left: 1cm;
 }
 
 #about-me p {
   font-size: 25px;
   color: rgb(128, 128, 128);
   margin-top: -1cm;
+  margin-left: 1cm;
 }
 
 .profile_image {
-  width: 550px;
+  width: 350px;
   height: fit-content;
   vertical-align: middle;
   margin: 5px;
+  border-radius: 50%;
+  box-shadow: 10px 10px 5px lightblue;
 }
 
 /* Skills */
