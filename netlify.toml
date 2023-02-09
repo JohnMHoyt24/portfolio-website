@@ -1,4 +1,0 @@
-[[redirects]]
-from = "/*"
-to = "/singlepagewebsite/index.html"
-status = 200
