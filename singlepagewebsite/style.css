@@ -55,6 +55,14 @@ body {
   float:left;
 }
 
+.linkedin{
+    color: white;
+}
+
+.github{
+    color: white;
+}
+
 /* Titles */
 
 h2 {
@@ -98,23 +106,22 @@ h2 {
   margin-top: 90px;
   color: #1481ca;
   text-shadow: 2px 2px 4px #000000;
-  margin-left: 1cm;
+  margin-left: 7cm;
 }
 
 #about-me p {
   font-size: 25px;
   color: rgb(128, 128, 128);
   margin-top: -1cm;
-  margin-left: 1cm;
+  margin-left: 7cm;
 }
 
 .profile_image {
-  width: 350px;
-  height: fit-content;
-  vertical-align: middle;
-  margin: 5px;
-  border-radius: 50%;
-  box-shadow: 10px 10px 5px lightblue;
+    width: 250px;
+    border-radius: 25px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    position: absolute;
+    margin-top: 25px;
 }
 
 /* Skills */
@@ -326,4 +333,9 @@ button:hover {
   border-radius: 6px;
   text-align: center;
   cursor: pointer;
+}
+
+.closing-paragraph{
+    font-size: 25px;
+    color: rgb(128, 128, 128);
 }
